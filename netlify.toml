@@ -7,3 +7,6 @@
 
 [build.base]
   base = "/opt/build/repo"
+
+[build.functions]
+  directory = "functions"
