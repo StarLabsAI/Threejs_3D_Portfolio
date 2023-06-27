@@ -47,11 +47,18 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        // Welcome to DesignAlchemistAI, the mystical domain where design, AI, and digital marketing converge.
+// As a skilled software alchemist fluent in TypeScript, JavaScript, and frameworks like React and Node.js,
+// I weave transformative digital experiences.
+
+// Through my alchemical code mastery, I seamlessly integrate SMTP server functionality for flawless
+// communication and email delivery. With my digital marketing sorcery, I concoct strategic campaigns
+// to enchant your online presence and captivate your audience.
+
+// Let's embark on a mystic collaboration to bring your visions to life. Together, we'll craft efficient,
+// scalable, and user-friendly solutions that transcend expectations. Unleash the magic of DesignAlchemistAI
+// and unlock the true potential of your projects.
+
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
