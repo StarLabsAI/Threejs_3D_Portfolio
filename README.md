@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+</a>
 <div align="center">
 
   ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
@@ -122,3 +122,77 @@ Download or clone this repo by using the link below:
 
 ```bash
 https://github.com/starlabsai/Threejs-3D-Portfolio.git
+#### Step 2:
+
+3D-Portfolio using NPM (Node Package Manager), therefore, make sure that Node.js is installed by execute the following command in console:
+
+```bash
+  node -v
+Step 3:
+At the main folder execute the following command in console to get the required dependencies:
+
+bash
+Copy code
+  npm install
+Step 4:
+At the main folder execute the following command in console to creates a build directory with a production build of 3d portfolio:
+
+bash
+Copy code
+  npm run build
+Step 5:
+At the main folder execute the following command in console to run the server:
+
+bash
+Copy code
+  npm run start
+<!-- Run Locally -->
+:running: Run Locally
+Step 1:
+At the main folder execute the following command in console to get the required dependencies:
+
+bash
+Copy code
+  npm install
+Step 2:
+At the main folder execute the following command in console to run the development server:
+
+bash
+Copy code
+  npm run dev
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- Contributing -->
+:wave: Contributing
+<a href="https://github.com/starlabsai/Threejs-3D-Portfolio/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/starlabsai/Threejs-3D-Portfolio" alt="contributors" />
+</a>
+<a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
+![Status](https://img.shields.io/badge/Passing-brightgreen)
+  <img src="https://contrib.rocks/image?repo=ladunjexa/Threejs_3D_Portfolio" />
+</a>
+Contributions are always welcome!
+
+See contributing.md for ways to get started.
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- License -->
+:warning: License
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+<!-- Contact -->
+:handshake: Contact
+Liron Abutbul - @lironabutbul6 - @ladunjexa
+
+Project Link: https://github.com/ladunjexa/Threejs-3D-Portfolio
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- Acknowledgments -->
+:gem: Acknowledgements
+This section is used to mention useful resources and libraries used in the 3D Portfolio.
+
+Email JS
+Framer Motion
+React Tilt
+[React Vertical Timeline Component](https://www.npmjs
